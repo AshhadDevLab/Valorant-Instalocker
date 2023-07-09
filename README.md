@@ -14,7 +14,9 @@ Welcome to the **Valorant Instalocker** repository! This repository contains a P
 
 Before you can use this script, make sure you have the following requirements:
 
+- Preferred Python version 3.11.4.
 - Python 3.x installed on your system.
+- If Python is not installed: [Python](https://www.python.org/downloads/release/python-3114/)
 - Required Python packages installed. You can find the necessary packages in the `requirements.txt` file.
 
 ## Run using protable Executable file
