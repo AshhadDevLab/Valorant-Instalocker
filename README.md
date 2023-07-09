@@ -7,7 +7,7 @@ Welcome to the **Valorant Instalocker** repository! This repository contains a P
 ## Features
 
 - **Agent Instalock**: The script automatically selects your desired agent as soon as the selection screen appears, ensuring you secure your preferred choice before anyone else.
-- **Configurable Settings**: Customize the script to match your preferences. You can set the target agent, adjust timing parameters, and more.
+- **Configurable Settings**: Customize the script to match your preferences. You can set the target agent and more.
 - **Easy to Use**: The script is designed to be user-friendly, with clear instructions and a straightforward setup process.
 
 ## Prerequisites
