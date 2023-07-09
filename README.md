@@ -50,16 +50,14 @@ Before you can use this script, make sure you have the following requirements:
 
 ## Creating Executable File using PyInstaller
 
-### PyInstaller
-
-#### Installation
+### Installation
 
 1. Install PyInstaller using pip:
 
    ```bash
    pip install pyinstaller
    ```
-####Usage
+### Usage
 
 1. Open a terminal or command prompt and navigate to the directory containing your Python script.
 
@@ -72,14 +70,14 @@ Before you can use this script, make sure you have the following requirements:
 
 4. Cut and paste the Valorant Instalocker (Agents Locked).exe from the output folder and paste it in Valorant Instalocker.exe output folder.
 
-###auto-py-to-exe
+## Creating Executable File using auto-py-to-exe
 
-####Installation
+### Installation
 
    ```bash
    pip install auto_py-to_exe
    ```
-####Usage
+### Usage
 
 1. Open a terminal or command prompt and run the following command to launch the auto-py-to-exe interface:
 
