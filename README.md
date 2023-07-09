@@ -106,6 +106,7 @@ Download the executable file from here: [Download](https://mega.nz/file/YLwHzToT
 - CustomTkinter GitHub Repository: [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 - CTkMessagebox GitHub Repository: [CTkMessagebox](https://github.com/Akascape/CTkMessagebox)
 - Pillow Documentation: [Pillow](https://pillow.readthedocs.io/en/stable)
+- psutil GitHub Repository: [psutil](https://github.com/giampaolo/psutil)
 
 ## Important Notes
 
