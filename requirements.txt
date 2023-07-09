@@ -1,0 +1,5 @@
+requests
+psutil==5.9.5
+CTkMessagebox==2.1
+customtkinter==5.2.0
+Pillow==10.0.0
