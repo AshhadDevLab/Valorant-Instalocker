@@ -17,6 +17,10 @@ Before you can use this script, make sure you have the following requirements:
 - Python 3.x installed on your system.
 - Required Python packages installed. You can find the necessary packages in the `requirements.txt` file.
 
+## Run using protable Executable file
+
+Download the executable file from here: [Download](https://mega.nz/file/YLwHzToT#gC4maH2J7lIKZa1e3u18PqVTtLARnHF3yN9v6ZRogkc)
+
 ## Installation and Usage
 
 1. Clone this repository to your local machine using the following command:
