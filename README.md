@@ -2,7 +2,7 @@
 
 ![Animation](https://github.com/Ashhad776/Valorant-Instalocker/assets/58696726/90581733-3be4-4993-a568-ada46988fcd7)
 
-Welcome to the **Valorant Agent Instalock Script** repository! This repository contains a Python script that allows you to insta-lock your desired agent in the popular first-person shooter game, Valorant. With this script, you can gain a competitive edge by quickly selecting your favorite agent before anyone else.
+Welcome to the **Valorant Instalocker** repository! This repository contains a Python script that allows you to insta-lock your desired agent in the popular first-person shooter game, Valorant. With this script, you can gain a competitive edge by quickly selecting your favorite agent before anyone else.
 
 ## Features
 
